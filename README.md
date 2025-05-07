@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Nhinh
 
 - 🖥️ I’m a Software Developer passionate about building impactful applications and learning new things.
-- :snowboarder: Few seasons in yet I am still too scared to try rails.
+- :snowboarder: I love snowboarding, but even after several seasons, I'm still too scared to try rails.
 - ♣️ Poker amateur.
 - :art: New to Digital Drawing.
 
