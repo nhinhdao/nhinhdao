@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Nhinh
 
 - 🖥️ I’m a Software Developer passionate about building impactful applications and learning new things.
-- ⛓️ I’m currently learning algorithm and data structure to improve my problem solving skill and make programming interesting.
-- :snowboarder: Few years in and still learning to carve.
+- :snowboarder: Few seasons in yet I am still too scared to try rails.
 - ♣️ Poker amateur.
 - :art: New to Digital Drawing.
 
